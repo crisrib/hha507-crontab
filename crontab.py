@@ -1,7 +1,7 @@
 # Import packages
 import crontab
 import os
-import requests as rs
+import requests
 import sys
 import time
 import pandas as pd
